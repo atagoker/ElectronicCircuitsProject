@@ -69,10 +69,3 @@ The project report covers:
 
 ### Files
 - [Project 3 Report](project_3.pdf)
-
-## How to Use This Repository
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/atagoker/ElectronicCircuitsProject.git
-   cd ElectronicCircuitsProject
